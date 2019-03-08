@@ -6,9 +6,9 @@ from sklearn.decomposition import PCA
 def main():
     print("Program: PCA")
     print("Release: 0.1.1")
-    print("Date: 2019-02-11")
-    print("Author: Brian Neely")
-    print()
+    print("Date: 2019-03-08")
+    print("Author: Nick Meyer")
+    print("Project Forked From Brian Neely Project BN_PCA")
     print()
     print("This program reads a csv file and performs dimensionality reduction using PCA.")
     print()
